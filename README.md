@@ -2,7 +2,7 @@
 
 Some facts about me:
 
-I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/">Camphill Devon</a> after graduating in Social Communication in São Paulo, before moving to London and working in hospitality. I am not afraid of new challenges or changes, and I am excited to begin my new career as a software engineer.
+I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/" target="_blank">Camphill Devon</a> after graduating in Social Communication in São Paulo, before moving to London and working in hospitality. I am not afraid of new challenges or changes, and I am excited to begin my new career as a software engineer.
 
 
 ## Relevant Skills
@@ -49,7 +49,7 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 
 ## Work Experience
 
-**<a href="https://www.yha.org.uk/hostel/yha-london-earls-court">YHA</a>** ( December 2018 - Present)  
+**<a href="https://www.yha.org.uk/hostel/yha-london-earls-court" target="_blank">YHA</a>** ( December 2018 - Present)  
 _Night Duty Manager_
 
 - Sole member of staff on duty, responsible for over 160 guests. Dealing with and resolving complaints and high-pressure situations.
