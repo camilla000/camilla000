@@ -1,21 +1,32 @@
-## Camilla Souza Lima
+## Hello, I'm Camilla 👋🏾
 
-Some facts about me:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilla000&show_icons=true&theme=dracula&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilla000&show_icons=true&theme=dracula&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### My WakaTime status for the last two weeks:
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=camilla000&layout=compact&theme=dracula)
+
+
+### Some facts about me:
 
 I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/" target="_blank">Camphill Devon</a> after graduating in Social Communication in São Paulo, before moving to London and working in hospitality. I am not afraid of new challenges or changes, and I am excited to begin my new career as a software engineer.
 
 
-## Relevant Skills
+### Relevant Skills
 
 - Test-driven development
 - Git
 - Ruby
+- Java
 - JavaScript
 - HTML and CSS
 - Bootstrap
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilla000&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -35,12 +46,13 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 
 - Focus on Test Driven Development, with an emphasis on pair programming.
 - Using paring in order to problem-solve efficiently, requiring teamwork and communication.
-- OOP, TDD, SOLID, MVC, DDD
-- Software craftsmanship
+- OOP, TDD,MVC
 - Ruby
+- Java
 - Rspec
-- Ruby 
 - JavaScript
+
+
 
 
 #### Universidade Paulista - UNIP (2009 - 2013)
@@ -61,7 +73,9 @@ _Team Member_
 
 - Essential teamwork and communication skills.
 
-## Hobbies
+<!-- ## Hobbies
 
-Indoor climbing (bouldering),
-Clay modeling
+Indoor climbing (bouldering), -->
+
+
+
