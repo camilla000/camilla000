@@ -31,12 +31,12 @@ I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/" ta
 
 
 
-#### Another Skills
+#### Additional Skills
 
 
 
 - Bilingual. I'm a native Portuguese (BR) speaker.
-- I can work independently and under pressure.
+- I can work independently and under pressure as well as part of a team.
 
 
 ## Education
