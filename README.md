@@ -1,6 +1,6 @@
 ## Hello, I'm Camilla 👋🏾
 
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilla000&show_icons=true&theme=dracula&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,7 +9,7 @@
 
 ### My WakaTime status for the last two weeks:
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=camilla000&layout=compact&theme=dracula)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=camilla000&layout=compact&theme=dracula) -->
 
 
 ### Some facts about me:
@@ -22,6 +22,7 @@ I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/" ta
 - Test-driven development
 - Git
 - Ruby
+- Rails
 - Java
 - JavaScript
 - HTML and CSS
@@ -51,6 +52,9 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 - Java
 - Rspec
 - JavaScript
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilla000&show_icons=true&theme=dracula&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
