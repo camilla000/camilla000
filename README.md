@@ -11,23 +11,17 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=camilla000&layout=compact&theme=dracula) -->
 
-
-### Some facts about me:
-
-I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/" target="_blank">Camphill Devon</a> after graduating in Social Communication in São Paulo, before moving to London and working in hospitality. I am not afraid of new challenges or changes, and I am excited to begin my new career as a software engineer.
-
-
 ### Relevant Skills
 
 - Test-driven development
+- OOP
 - Git
 - Ruby
 - Rails
 - Java
 - JavaScript
+- React
 - HTML and CSS
-- Bootstrap
-
 
 
 
@@ -57,25 +51,6 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-#### Universidade Paulista - UNIP (2009 - 2013)
-
-- BA Degree in Social Communication & Advertising
-
-## Work Experience
-
-**<a href="https://www.yha.org.uk/hostel/yha-london-earls-court" target="_blank">YHA</a>** ( December 2018 - Present)  
-_Night Duty Manager_
-
-- Sole member of staff on duty, responsible for over 160 guests. Dealing with and resolving complaints and high-pressure situations.
-- Administration duties including email and phone correspondence, bookings.
-- Management, payment processing, check-ins and check-outs.
-
-**The Crown and Anchor, Euston** (April 2018 - January 2019)  
-_Team Member_
-
-- Essential teamwork and communication skills.
 
 <!-- ## Hobbies
 
